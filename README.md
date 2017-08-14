@@ -58,3 +58,10 @@ frontend
 vendor/                  contains dependent 3rd-party packages
 environments/            contains environment-based overrides
 ```
+
+
+1. Install Yii2-advance-template
+http://www.manks.top/yii2-install.html
+
+2. Install Yii2-admin
+http://www.manks.top/yii2-frame-rbac-template.html
